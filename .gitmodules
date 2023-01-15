@@ -1,0 +1,6 @@
+[submodule "P7-Groupomania"]
+	path = P7-Groupomania
+	url = https://github.com/Nanahki64/P7-Groupomania.git
+[submodule "P7-OC-Back"]
+	path = P7-OC-Back
+	url = https://github.com/Nanahki64/P7-OC-Back.git
